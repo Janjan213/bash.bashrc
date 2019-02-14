@@ -23,7 +23,7 @@ $ nano .bashrc
 
 *Then copy this file 👇 below;
 
-figlet -f slant GIT ACADEMY
+figlet -f slant GIT HUB
 PS1='\033[01;34m\]┌──\[\033[01;32m\]root\[\033[01;34m\]@\[$
 \[\033[01;34m\]└╼\[\033[01;31m\]#\l
 
